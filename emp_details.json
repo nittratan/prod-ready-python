@@ -1,0 +1,506 @@
+{
+  "organisationName": "TechSphere Global Pvt Ltd",
+  "headquarters": "Bengaluru, India",
+  "totalEmployees": 10,
+  "employeeRecords": [
+    {
+      "employeeID": "TSG-5001",
+      "personalDetails": {
+        "firstName": "Amit",
+        "lastName": "Sharma",
+        "age": 34,
+        "gender": "Male",
+        "contact": {
+          "email": "amit.sharma@techsphere.com",
+          "phone": "+91-9876543210"
+        }
+      },
+      "jobDetails": {
+        "designation": "Senior Data Engineer",
+        "department": "Data Platform",
+        "dateOfJoining": "2018-04-12",
+        "salaryUSD": 90000
+      },
+      "skills": ["Python", "Spark", "Airflow", "SQL", "Kubernetes"],
+      "projectHistory": [
+        {
+          "projectID": "P-101",
+          "name": "Data Lake Migration",
+          "role": "Lead Engineer",
+          "durationMonths": 14,
+          "techStack": ["AWS S3", "EMR", "Hive"]
+        },
+        {
+          "projectID": "P-106",
+          "name": "Streaming Pipeline",
+          "role": "Architect",
+          "durationMonths": 10,
+          "techStack": ["Kafka", "Flink", "Redis"]
+        }
+      ],
+      "reportingManagerID": "TSG-5002",
+      "performanceReviews": [
+        {"year": 2023, "rating": "Excellent", "reviewedBy": "TSG-5002"},
+        {"year": 2024, "rating": "Good", "reviewedBy": "TSG-5003"}
+      ],
+      "benefits": {
+        "healthInsurance": true,
+        "stockOptions": 1200,
+        "workFromHomeAllowanceUSD": 2000
+      },
+      "emergencyContact": {
+        "name": "Rajesh Sharma",
+        "relation": "Father",
+        "phone": "+91-9988776655"
+      },
+      "systemMetadata": {
+        "api_version": "v2.1",
+        "lastLogin": "2025-09-28T09:45:00Z",
+        "device": "Macbook Pro",
+        "ip": "182.76.21.90"
+      }
+    },
+    {
+      "employeeID": "TSG-5002",
+      "personalDetails": {
+        "firstName": "Neha",
+        "lastName": "Verma",
+        "age": 38,
+        "gender": "Female",
+        "contact": {
+          "email": "neha.verma@techsphere.com",
+          "phone": "+91-9123456780"
+        }
+      },
+      "jobDetails": {
+        "designation": "Engineering Manager",
+        "department": "Data Platform",
+        "dateOfJoining": "2015-11-03",
+        "salaryUSD": 120000
+      },
+      "skills": ["Leadership", "Agile", "System Design"],
+      "projectHistory": [
+        {
+          "projectID": "P-101",
+          "name": "Data Lake Migration",
+          "role": "Project Manager",
+          "durationMonths": 14,
+          "techStack": ["AWS", "Spark"]
+        }
+      ],
+      "reportingManagerID": "TSG-5009",
+      "performanceReviews": [
+        {"year": 2023, "rating": "Outstanding", "reviewedBy": "TSG-5009"},
+        {"year": 2024, "rating": "Excellent", "reviewedBy": "TSG-5009"}
+      ],
+      "benefits": {
+        "healthInsurance": true,
+        "stockOptions": 2200,
+        "workFromHomeAllowanceUSD": 2500
+      },
+      "emergencyContact": {
+        "name": "Kavita Verma",
+        "relation": "Mother",
+        "phone": "+91-9811223344"
+      },
+      "systemMetadata": {
+        "api_version": "v2.1",
+        "lastLogin": "2025-09-29T11:30:00Z",
+        "device": "Dell XPS",
+        "ip": "103.45.12.56"
+      }
+    },
+    {
+      "employeeID": "TSG-5003",
+      "personalDetails": {
+        "firstName": "Rohit",
+        "lastName": "Kapoor",
+        "age": 29,
+        "gender": "Male",
+        "contact": {
+          "email": "rohit.kapoor@techsphere.com",
+          "phone": "+91-9090909090"
+        }
+      },
+      "jobDetails": {
+        "designation": "Machine Learning Engineer",
+        "department": "AI Research",
+        "dateOfJoining": "2020-07-15",
+        "salaryUSD": 85000
+      },
+      "skills": ["Python", "TensorFlow", "PyTorch", "NLP", "GenAI"],
+      "projectHistory": [
+        {
+          "projectID": "P-110",
+          "name": "Claims Risk Prediction",
+          "role": "Model Developer",
+          "durationMonths": 8,
+          "techStack": ["PyTorch", "FastAPI", "Postgres"]
+        }
+      ],
+      "reportingManagerID": "TSG-5004",
+      "performanceReviews": [
+        {"year": 2023, "rating": "Good", "reviewedBy": "TSG-5004"}
+      ],
+      "benefits": {
+        "healthInsurance": true,
+        "stockOptions": 800,
+        "workFromHomeAllowanceUSD": 1000
+      },
+      "emergencyContact": {
+        "name": "Suresh Kapoor",
+        "relation": "Brother",
+        "phone": "+91-9876500011"
+      },
+      "systemMetadata": {
+        "api_version": "v2.1",
+        "lastLogin": "2025-09-30T13:20:00Z",
+        "device": "ThinkPad",
+        "ip": "110.34.76.12"
+      }
+    },
+    {
+      "employeeID": "TSG-5004",
+      "personalDetails": {
+        "firstName": "Pooja",
+        "lastName": "Nair",
+        "age": 32,
+        "gender": "Female",
+        "contact": {
+          "email": "pooja.nair@techsphere.com",
+          "phone": "+91-9811112233"
+        }
+      },
+      "jobDetails": {
+        "designation": "Principal Scientist",
+        "department": "AI Research",
+        "dateOfJoining": "2017-01-22",
+        "salaryUSD": 130000
+      },
+      "skills": ["Deep Learning", "NLP", "Reinforcement Learning"],
+      "projectHistory": [
+        {
+          "projectID": "P-110",
+          "name": "Claims Risk Prediction",
+          "role": "Research Lead",
+          "durationMonths": 8,
+          "techStack": ["Transformers", "LLMs"]
+        }
+      ],
+      "reportingManagerID": "TSG-5009",
+      "performanceReviews": [
+        {"year": 2023, "rating": "Excellent", "reviewedBy": "TSG-5009"}
+      ],
+      "benefits": {
+        "healthInsurance": true,
+        "stockOptions": 3000,
+        "workFromHomeAllowanceUSD": 3500
+      },
+      "emergencyContact": {
+        "name": "Anjali Nair",
+        "relation": "Sister",
+        "phone": "+91-9812345678"
+      },
+      "systemMetadata": {
+        "api_version": "v2.1",
+        "lastLogin": "2025-09-25T08:10:00Z",
+        "device": "Mac Studio",
+        "ip": "121.45.23.78"
+      }
+    },
+    {
+      "employeeID": "TSG-5005",
+      "personalDetails": {
+        "firstName": "Vikram",
+        "lastName": "Mehta",
+        "age": 41,
+        "gender": "Male",
+        "contact": {
+          "email": "vikram.mehta@techsphere.com",
+          "phone": "+91-9000112233"
+        }
+      },
+      "jobDetails": {
+        "designation": "Head of Infrastructure",
+        "department": "Cloud Ops",
+        "dateOfJoining": "2012-03-15",
+        "salaryUSD": 150000
+      },
+      "skills": ["AWS", "GCP", "Kubernetes", "Terraform"],
+      "projectHistory": [
+        {
+          "projectID": "P-115",
+          "name": "Multi-Cloud Migration",
+          "role": "Program Head",
+          "durationMonths": 24,
+          "techStack": ["AWS", "GCP", "K8s", "Helm"]
+        }
+      ],
+      "reportingManagerID": "TSG-5010",
+      "performanceReviews": [
+        {"year": 2023, "rating": "Outstanding", "reviewedBy": "TSG-5010"}
+      ],
+      "benefits": {
+        "healthInsurance": true,
+        "stockOptions": 5000,
+        "workFromHomeAllowanceUSD": 4000
+      },
+      "emergencyContact": {
+        "name": "Ritika Mehta",
+        "relation": "Wife",
+        "phone": "+91-9998877665"
+      },
+      "systemMetadata": {
+        "api_version": "v2.1",
+        "lastLogin": "2025-09-30T15:00:00Z",
+        "device": "iMac",
+        "ip": "101.99.45.12"
+      }
+    },
+    {
+      "employeeID": "TSG-5006",
+      "personalDetails": {
+        "firstName": "Sneha",
+        "lastName": "Patil",
+        "age": 27,
+        "gender": "Female",
+        "contact": {
+          "email": "sneha.patil@techsphere.com",
+          "phone": "+91-9988223344"
+        }
+      },
+      "jobDetails": {
+        "designation": "DevOps Engineer",
+        "department": "Cloud Ops",
+        "dateOfJoining": "2021-02-19",
+        "salaryUSD": 75000
+      },
+      "skills": ["Docker", "Kubernetes", "ArgoCD", "CI/CD"],
+      "projectHistory": [
+        {
+          "projectID": "P-115",
+          "name": "Multi-Cloud Migration",
+          "role": "Automation Engineer",
+          "durationMonths": 12,
+          "techStack": ["ArgoCD", "Helm"]
+        }
+      ],
+      "reportingManagerID": "TSG-5005",
+      "performanceReviews": [
+        {"year": 2023, "rating": "Good", "reviewedBy": "TSG-5005"}
+      ],
+      "benefits": {
+        "healthInsurance": true,
+        "stockOptions": 600,
+        "workFromHomeAllowanceUSD": 1200
+      },
+      "emergencyContact": {
+        "name": "Prakash Patil",
+        "relation": "Father",
+        "phone": "+91-9123456777"
+      },
+      "systemMetadata": {
+        "api_version": "v2.1",
+        "lastLogin": "2025-09-27T10:30:00Z",
+        "device": "ThinkPad",
+        "ip": "102.76.32.90"
+      }
+    },
+    {
+      "employeeID": "TSG-5007",
+      "personalDetails": {
+        "firstName": "Aditya",
+        "lastName": "Gupta",
+        "age": 30,
+        "gender": "Male",
+        "contact": {
+          "email": "aditya.gupta@techsphere.com",
+          "phone": "+91-9812345566"
+        }
+      },
+      "jobDetails": {
+        "designation": "Product Manager",
+        "department": "Product Strategy",
+        "dateOfJoining": "2019-06-10",
+        "salaryUSD": 95000
+      },
+      "skills": ["Agile", "Scrum", "Market Research"],
+      "projectHistory": [
+        {
+          "projectID": "P-120",
+          "name": "AI Claims Platform",
+          "role": "Product Owner",
+          "durationMonths": 18,
+          "techStack": ["Jira", "Confluence"]
+        }
+      ],
+      "reportingManagerID": "TSG-5010",
+      "performanceReviews": [
+        {"year": 2023, "rating": "Excellent", "reviewedBy": "TSG-5010"}
+      ],
+      "benefits": {
+        "healthInsurance": true,
+        "stockOptions": 1500,
+        "workFromHomeAllowanceUSD": 1800
+      },
+      "emergencyContact": {
+        "name": "Sunil Gupta",
+        "relation": "Brother",
+        "phone": "+91-9911223344"
+      },
+      "systemMetadata": {
+        "api_version": "v2.1",
+        "lastLogin": "2025-09-29T18:45:00Z",
+        "device": "Surface Pro",
+        "ip": "105.34.22.19"
+      }
+    },
+    {
+      "employeeID": "TSG-5008",
+      "personalDetails": {
+        "firstName": "Meera",
+        "lastName": "Rao",
+        "age": 35,
+        "gender": "Female",
+        "contact": {
+          "email": "meera.rao@techsphere.com",
+          "phone": "+91-9900112233"
+        }
+      },
+      "jobDetails": {
+        "designation": "Finance Analyst",
+        "department": "Finance",
+        "dateOfJoining": "2016-12-01",
+        "salaryUSD": 80000
+      },
+      "skills": ["Excel", "SQL", "Financial Modelling"],
+      "projectHistory": [
+        {
+          "projectID": "P-130",
+          "name": "Expense Optimization",
+          "role": "Lead Analyst",
+          "durationMonths": 6,
+          "techStack": ["Tableau", "PowerBI"]
+        }
+      ],
+      "reportingManagerID": "TSG-5010",
+      "performanceReviews": [
+        {"year": 2023, "rating": "Good", "reviewedBy": "TSG-5010"}
+      ],
+      "benefits": {
+        "healthInsurance": true,
+        "stockOptions": 900,
+        "workFromHomeAllowanceUSD": 1000
+      },
+      "emergencyContact": {
+        "name": "Raghav Rao",
+        "relation": "Husband",
+        "phone": "+91-9876543322"
+      },
+      "systemMetadata": {
+        "api_version": "v2.1",
+        "lastLogin": "2025-09-26T14:00:00Z",
+        "device": "Macbook Air",
+        "ip": "117.21.45.77"
+      }
+    },
+    {
+      "employeeID": "TSG-5009",
+      "personalDetails": {
+        "firstName": "Arjun",
+        "lastName": "Singh",
+        "age": 45,
+        "gender": "Male",
+        "contact": {
+          "email": "arjun.singh@techsphere.com",
+          "phone": "+91-9811998877"
+        }
+      },
+      "jobDetails": {
+        "designation": "Director of Engineering",
+        "department": "Technology",
+        "dateOfJoining": "2010-08-21",
+        "salaryUSD": 180000
+      },
+      "skills": ["Leadership", "Cloud Strategy", "System Architecture"],
+      "projectHistory": [
+        {
+          "projectID": "P-140",
+          "name": "Enterprise AI Platform",
+          "role": "Director",
+          "durationMonths": 36,
+          "techStack": ["Azure", "LLMs", "Kafka"]
+        }
+      ],
+      "reportingManagerID": "TSG-5010",
+      "performanceReviews": [
+        {"year": 2023, "rating": "Outstanding", "reviewedBy": "TSG-5010"}
+      ],
+      "benefits": {
+        "healthInsurance": true,
+        "stockOptions": 7000,
+        "workFromHomeAllowanceUSD": 6000
+      },
+      "emergencyContact": {
+        "name": "Priya Singh",
+        "relation": "Wife",
+        "phone": "+91-9898989898"
+      },
+      "systemMetadata": {
+        "api_version": "v2.1",
+        "lastLogin": "2025-09-30T16:15:00Z",
+        "device": "Mac Studio",
+        "ip": "106.87.22.11"
+      }
+    },
+    {
+      "employeeID": "TSG-5010",
+      "personalDetails": {
+        "firstName": "Rakesh",
+        "lastName": "Iyer",
+        "age": 50,
+        "gender": "Male",
+        "contact": {
+          "email": "rakesh.iyer@techsphere.com",
+          "phone": "+91-9800112233"
+        }
+      },
+      "jobDetails": {
+        "designation": "Chief Technology Officer",
+        "department": "Executive",
+        "dateOfJoining": "2008-05-01",
+        "salaryUSD": 250000
+      },
+      "skills": ["Executive Leadership", "Technology Roadmap", "M&A"],
+      "projectHistory": [
+        {
+          "projectID": "P-150",
+          "name": "Global Tech Strategy",
+          "role": "CTO",
+          "durationMonths": 48,
+          "techStack": ["Enterprise Architecture", "Cloud"]
+        }
+      ],
+      "reportingManagerID": null,
+      "performanceReviews": [
+        {"year": 2023, "rating": "Board Approved", "reviewedBy": "Board"}
+      ],
+      "benefits": {
+        "healthInsurance": true,
+        "stockOptions": 15000,
+        "workFromHomeAllowanceUSD": 10000
+      },
+      "emergencyContact": {
+        "name": "Snehal Iyer",
+        "relation": "Wife",
+        "phone": "+91-9812345670"
+      },
+      "systemMetadata": {
+        "api_version": "v2.1",
+        "lastLogin": "2025-09-30T17:30:00Z",
+        "device": "Mac Studio Pro",
+        "ip": "115.67.21.88"
+      }
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "id": 101,
+  "name": "Ratan Sharma",
+  "skills": ["Python", "FastAPI", "Docker"],
+  "department": {
+    "name": "AI/ML",
+    "projects": ["ETL Pipeline", "LLM Fine-tuning"]
+  }
+}

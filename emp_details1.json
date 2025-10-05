@@ -1,0 +1,405 @@
+{
+  "organisationName": "TechSolutions Global",
+  "totalEmployees": 10,
+  "headquarters": {
+    "city": "Bengaluru",
+    "country": "India",
+    "pincode": "560001"
+  },
+  "employeeRecords": [
+    {
+      "employeeID": "TSG-1001",
+      "personalDetails": {
+        "firstName": "Arjun",
+        "lastName": "Sharma",
+        "email": "arjun.s@tsg.com",
+        "dateOfBirth": "1988-05-15",
+        "isMarried": true
+      },
+      "jobDetails": {
+        "department": "Software Development",
+        "position": "Senior Developer",
+        "annualSalaryUSD": 95000,
+        "dateJoined": "2015-08-01",
+        "status": "Active"
+      },
+      "skills": [
+        {"name": "Python", "level": "Expert"},
+        {"name": "AWS", "level": "Advanced"},
+        {"name": "Django", "level": "Expert"}
+      ],
+      "projectHistory": [
+        {"projectID": "P-452", "name": "AI Chatbot Platform", "role": "Tech Lead", "durationMonths": 18, "isActive": false},
+        {"projectID": "P-601", "name": "Mobile App Relaunch", "role": "Developer", "durationMonths": 6, "isActive": true}
+      ],
+      "reportingManagerID": "TSG-5001",
+      
+      "performanceReviews": [
+        {"year": 2023, "rating": "Excellent", "reviewedBy": "TSG-5002"},
+        {"year": 2024, "rating": "Good", "reviewedBy": "TSG-5001"}
+      ],
+      "benefits": {
+        "healthInsurance": true,
+        "stockOptions": 1200,
+        "workFromHomeAllowanceUSD": 1500
+      },
+      "emergencyContact": {
+        "name": "Ramesh Sharma",
+        "relation": "Father",
+        "phone": "+91-9988776655"
+      }
+    },
+    {
+      "employeeID": "TSG-1002",
+      "personalDetails": {
+        "firstName": "Priya",
+        "lastName": "Verma",
+        "email": "priya.v@tsg.com",
+        "dateOfBirth": "1992-11-20",
+        "isMarried": false
+      },
+      "jobDetails": {
+        "department": "Marketing",
+        "position": "Marketing Specialist",
+        "annualSalaryUSD": 65000,
+        "dateJoined": "2018-03-10",
+        "status": "Active"
+      },
+      "skills": [
+        {"name": "SEO", "level": "Advanced"},
+        {"name": "Content Creation", "level": "Expert"}
+      ],
+      "projectHistory": [
+        {"projectID": "M-112", "name": "Q3 Digital Campaign", "role": "Lead Strategist", "durationMonths": 3, "isActive": true}
+      ],
+      "reportingManagerID": "TSG-5001",
+      
+      "performanceReviews": [
+        {"year": 2023, "rating": "Good", "reviewedBy": "TSG-5001"}
+      ],
+      "benefits": {
+        "healthInsurance": true,
+        "stockOptions": 800,
+        "workFromHomeAllowanceUSD": 1000
+      },
+      "emergencyContact": {
+        "name": "Sunita Verma",
+        "relation": "Mother",
+        "phone": "+91-9911223344"
+      }
+    },
+    {
+      "employeeID": "TSG-1003",
+      "personalDetails": {
+        "firstName": "Ravi",
+        "lastName": "Kumar",
+        "email": "ravi.k@tsg.com",
+        "dateOfBirth": "1985-01-25",
+        "isMarried": true
+      },
+      "jobDetails": {
+        "department": "Software Development",
+        "position": "Team Lead",
+        "annualSalaryUSD": 120000,
+        "dateJoined": "2010-06-01",
+        "status": "Active"
+      },
+      "skills": [
+        {"name": "Java", "level": "Expert"},
+        {"name": "Spring Boot", "level": "Expert"},
+        {"name": "Database Management", "level": "Advanced"}
+      ],
+      "projectHistory": [
+        {"projectID": "P-452", "name": "AI Chatbot Platform", "role": "Project Manager", "durationMonths": 18, "isActive": false}
+      ],
+      "reportingManagerID": "TSG-5002",
+      
+      "performanceReviews": [
+        {"year": 2023, "rating": "Excellent", "reviewedBy": "TSG-5004"}
+      ],
+      "benefits": {
+        "healthInsurance": true,
+        "stockOptions": 2500,
+        "workFromHomeAllowanceUSD": 2000
+      },
+      "emergencyContact": {
+        "name": "Anjali Kumar",
+        "relation": "Wife",
+        "phone": "+91-9977665544"
+      }
+    },
+    {
+      "employeeID": "TSG-1004",
+      "personalDetails": {
+        "firstName": "Sanya",
+        "lastName": "Garg",
+        "email": "sanya.g@tsg.com",
+        "dateOfBirth": "1995-09-02",
+        "isMarried": false
+      },
+      "jobDetails": {
+        "department": "HR",
+        "position": "HR Assistant",
+        "annualSalaryUSD": 50000,
+        "dateJoined": "2022-01-15",
+        "status": "Active"
+      },
+      "skills": [
+        {"name": "Recruitment", "level": "Intermediate"},
+        {"name": "Policy Drafting", "level": "Intermediate"}
+      ],
+      "projectHistory": [],
+      "reportingManagerID": "TSG-5003",
+      
+      "performanceReviews": [
+        {"year": 2023, "rating": "Average", "reviewedBy": "TSG-5003"}
+      ],
+      "benefits": {
+        "healthInsurance": true,
+        "stockOptions": 500,
+        "workFromHomeAllowanceUSD": 1000
+      },
+      "emergencyContact": {
+        "name": "Manish Garg",
+        "relation": "Brother",
+        "phone": "+91-8877665544"
+      }
+    },
+    {
+      "employeeID": "TSG-1005",
+      "personalDetails": {
+        "firstName": "Vikram",
+        "lastName": "Singh",
+        "email": "vikram.s@tsg.com",
+        "dateOfBirth": "1975-03-03",
+        "isMarried": true
+      },
+      "jobDetails": {
+        "department": "Operations",
+        "position": "VP Operations",
+        "annualSalaryUSD": 180000,
+        "dateJoined": "2005-11-25",
+        "status": "Active"
+      },
+      "skills": [
+        {"name": "Supply Chain", "level": "Expert"},
+        {"name": "Logistics", "level": "Expert"}
+      ],
+      "projectHistory": [
+        {"projectID": "O-789", "name": "Global Office Setup", "role": "Director", "durationMonths": 24, "isActive": false}
+      ],
+      "reportingManagerID": "TSG-5004",
+      
+      "performanceReviews": [
+        {"year": 2024, "rating": "Excellent", "reviewedBy": "TSG-1010"}
+      ],
+      "benefits": {
+        "healthInsurance": true,
+        "stockOptions": 5000,
+        "workFromHomeAllowanceUSD": 3000
+      },
+      "emergencyContact": {
+        "name": "Kavita Singh",
+        "relation": "Wife",
+        "phone": "+91-9900112233"
+      }
+    },
+    {
+      "employeeID": "TSG-1006",
+      "personalDetails": {
+        "firstName": "Neha",
+        "lastName": "Joshi",
+        "email": "neha.j@tsg.com",
+        "dateOfBirth": "1990-07-10",
+        "isMarried": true
+      },
+      "jobDetails": {
+        "department": "Software Development",
+        "position": "UX Designer",
+        "annualSalaryUSD": 80000,
+        "dateJoined": "2017-04-20",
+        "status": "Active"
+      },
+      "skills": [
+        {"name": "Figma", "level": "Expert"},
+        {"name": "User Research", "level": "Advanced"}
+      ],
+      "projectHistory": [
+        {"projectID": "P-601", "name": "Mobile App Relaunch", "role": "Lead Designer", "durationMonths": 6, "isActive": true}
+      ],
+      "reportingManagerID": "TSG-5002",
+      
+      "performanceReviews": [
+        {"year": 2023, "rating": "Good", "reviewedBy": "TSG-5002"}
+      ],
+      "benefits": {
+        "healthInsurance": true,
+        "stockOptions": 1000,
+        "workFromHomeAllowanceUSD": 1500
+      },
+      "emergencyContact": {
+        "name": "Rohit Joshi",
+        "relation": "Husband",
+        "phone": "+91-8765432109"
+      }
+    },
+    {
+      "employeeID": "TSG-1007",
+      "personalDetails": {
+        "firstName": "Gaurav",
+        "lastName": "Reddy",
+        "email": "gaurav.r@tsg.com",
+        "dateOfBirth": "1998-12-01",
+        "isMarried": false
+      },
+      "jobDetails": {
+        "department": "Finance",
+        "position": "Financial Analyst",
+        "annualSalaryUSD": 70000,
+        "dateJoined": "2020-10-01",
+        "status": "Active"
+      },
+      "skills": [
+        {"name": "Excel Modeling", "level": "Expert"},
+        {"name": "Taxes", "level": "Intermediate"}
+      ],
+      "projectHistory": [],
+      "reportingManagerID": "TSG-5003",
+      
+      "performanceReviews": [
+        {"year": 2024, "rating": "Good", "reviewedBy": "TSG-5003"}
+      ],
+      "benefits": {
+        "healthInsurance": true,
+        "stockOptions": 900,
+        "workFromHomeAllowanceUSD": 1000
+      },
+      "emergencyContact": {
+        "name": "Geeta Reddy",
+        "relation": "Sister",
+        "phone": "+91-9000111222"
+      }
+    },
+    {
+      "employeeID": "TSG-1008",
+      "personalDetails": {
+        "firstName": "Ayesha",
+        "lastName": "Khan",
+        "email": "ayesha.k@tsg.com",
+        "dateOfBirth": "1983-02-18",
+        "isMarried": true
+      },
+      "jobDetails": {
+        "department": "Marketing",
+        "position": "Head of Marketing",
+        "annualSalaryUSD": 140000,
+        "dateJoined": "2012-07-07",
+        "status": "Active"
+      },
+      "skills": [
+        {"name": "Brand Strategy", "level": "Expert"},
+        {"name": "Team Leadership", "level": "Expert"}
+      ],
+      "projectHistory": [
+        {"projectID": "M-112", "name": "Q3 Digital Campaign", "role": "Executive Sponsor", "durationMonths": 3, "isActive": true}
+      ],
+      "reportingManagerID": "TSG-5004",
+      
+      "performanceReviews": [
+        {"year": 2023, "rating": "Excellent", "reviewedBy": "TSG-5004"}
+      ],
+      "benefits": {
+        "healthInsurance": true,
+        "stockOptions": 3000,
+        "workFromHomeAllowanceUSD": 2500
+      },
+      "emergencyContact": {
+        "name": "Imran Khan",
+        "relation": "Husband",
+        "phone": "+91-9876543210"
+      }
+    },
+    {
+      "employeeID": "TSG-1009",
+      "personalDetails": {
+        "firstName": "Deepak",
+        "lastName": "Patel",
+        "email": "deepak.p@tsg.com",
+        "dateOfBirth": "1993-06-28",
+        "isMarried": true
+      },
+      "jobDetails": {
+        "department": "Software Development",
+        "position": "Junior Developer",
+        "annualSalaryUSD": 55000,
+        "dateJoined": "2023-05-05",
+        "status": "Active"
+      },
+      "skills": [
+        {"name": "React", "level": "Intermediate"},
+        {"name": "JavaScript", "level": "Advanced"}
+      ],
+      "projectHistory": [
+        {"projectID": "P-601", "name": "Mobile App Relaunch", "role": "Developer", "durationMonths": 6, "isActive": true}
+      ],
+      "reportingManagerID": "TSG-5001",
+      
+      "performanceReviews": [
+        {"year": 2024, "rating": "Average", "reviewedBy": "TSG-5001"}
+      ],
+      "benefits": {
+        "healthInsurance": true,
+        "stockOptions": 400,
+        "workFromHomeAllowanceUSD": 500
+      },
+      "emergencyContact": {
+        "name": "Nisha Patel",
+        "relation": "Wife",
+        "phone": "+91-9988112233"
+      }
+    },
+    {
+      "employeeID": "TSG-1010",
+      "personalDetails": {
+        "firstName": "Shreya",
+        "lastName": "Mittal",
+        "email": "shreya.m@tsg.com",
+        "dateOfBirth": "1980-04-12",
+        "isMarried": false
+      },
+      "jobDetails": {
+        "department": "Management",
+        "position": "CEO",
+        "annualSalaryUSD": 300000,
+        "dateJoined": "2000-01-01",
+        "status": "Active"
+      },
+      "skills": [
+        {"name": "Strategic Planning", "level": "Expert"},
+        {"name": "Public Speaking", "level": "Expert"}
+      ],
+      "projectHistory": [],
+      "reportingManagerID": null,
+      
+      "performanceReviews": [
+        {"year": 2023, "rating": "Outstanding", "reviewedBy": "Board"}
+      ],
+      "benefits": {
+        "healthInsurance": true,
+        "stockOptions": 10000,
+        "workFromHomeAllowanceUSD": 5000
+      },
+      "emergencyContact": {
+        "name": "Ashish Mittal",
+        "relation": "Brother",
+        "phone": "+91-9876000111"
+      }
+    }
+  ],
+  "managerIDs": [
+    {"managerID": "TSG-5001", "name": "Karan Kapoor"},
+    {"managerID": "TSG-5002", "name": "Zoya Ali"},
+    {"managerID": "TSG-5003", "name": "Alok Jain"},
+    {"managerID": "TSG-5004", "name": "Meera Shah"}
+  ]
+}
